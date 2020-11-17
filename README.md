@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I'm Diego Siliprandi ❌🧢
+I'm Diego Siliprandi
 
 <!--
 **Diegosili/Diegosili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
